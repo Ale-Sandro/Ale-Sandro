@@ -1,14 +1,14 @@
 <h2> Hi, I'm  Alessandro ! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student Frontend developer at<a href="https://www.epfc.eu/formations?categorie%5B3%5D=3">EPFC</a><img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="500">
+<p><em>Student Frontend developer at<a href="https://www.epfc.eu/formations?categorie%5B3%5D=3"> EPFC</a>
   
 </em></p>
 
 
-[![GitHub Ale-Sandro](https://github.com/Ale-Sandro)
+[![GitHub Ale-Sandro](https://img.shields.io/github/followers/ale-sandro?label=follow&style=social)](https://github.com/Ale-Sandro)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 📑 A little more about me...  
 
 ```javascript
 const Ale = {

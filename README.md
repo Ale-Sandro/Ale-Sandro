@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2> Hi, I'm  Alessandro ! 👋</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Student Frontend developer at<a href="https://www.epfc.eu/formations?categorie%5B3%5D=3">EPFC</a><img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="30">
+  
+</em></p>
 
-<!--
-**Ale-Sandro/Ale-Sandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![GitHub Ale-Sandro](https://github.com/Ale-Sandro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Ale = {
+  goal: "frontend developer",
+  technologies : {
+    frontEnd : {
+      code : ["Javascript" , "HTML", "CSS"],
+      framework : ["React", "SASS", "bootstrap"],
+    },
+    backEnd : "PHP",
+    database : "MySql", 
+    tools : ["webPack", "git"]
+  }
+}
+```
+
+
+
+---

@@ -1,5 +1,5 @@
 <h2> Hi, I'm  Alessandro ! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="500"/>
+<p><img align='right' src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="500"/></p>
 <p><em>Student Frontend developer at<a href="https://www.epfc.eu/formations?categorie%5B3%5D=3"> EPFC</a>
   
 </em></p>

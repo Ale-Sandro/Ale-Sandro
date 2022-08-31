@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="400">
 
 <h2> Hi, I'm  Alessandro ! 👋</h2>
-<p><em>Student Frontend developer at<a href="https://www.epfc.eu/formations?categorie%5B3%5D=3"> EPFC</a></em></p>
+<p><em>Junior Frontend developer at<a href="https://www.decathlon.be/fr/"> Decathlon</a></em> Belgium</p>
 
 
 [![GitHub Ale-Sandro](https://img.shields.io/github/followers/ale-sandro?label=follow&style=social)](https://github.com/Ale-Sandro)
@@ -11,11 +11,11 @@
 
 ```javascript
 const Ale = {
-  goal: "frontend developer",
+  state : "Junior frontend developer",
   technologies : {
     frontEnd : {
       code : ["Javascript" , "HTML", "CSS"],
-      framework : ["React", "SASS", "bootstrap"],
+      framework : ["React","Svelte","SASS","bootstrap","TailwindCSS"],
     },
     backEnd : "PHP",
     database : "MySql", 

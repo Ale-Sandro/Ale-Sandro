@@ -4,8 +4,6 @@
 <p><em>Junior Frontend developer at<a href="https://www.decathlon.be/fr/"> Decathlon</a></em> Belgium</p>
 
 
-[![GitHub Ale-Sandro](https://img.shields.io/github/followers/ale-sandro?label=follow&style=social)](https://github.com/Ale-Sandro)
-
 
 ### 📑 A little more about me...  
 
